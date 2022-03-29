@@ -1,0 +1,21 @@
+h1,
+h3 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+ol > li,
+tr td {
+  color: red;
+}
+
+a {
+  color: rgb(36, 240, 121);
+}
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
